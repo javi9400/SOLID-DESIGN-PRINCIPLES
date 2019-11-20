@@ -1,0 +1,11 @@
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/bin/Debug/netcoreapp3.0/OpenClosedPrincipleExample
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/bin/Debug/netcoreapp3.0/OpenClosedPrincipleExample.deps.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/bin/Debug/netcoreapp3.0/OpenClosedPrincipleExample.runtimeconfig.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/bin/Debug/netcoreapp3.0/OpenClosedPrincipleExample.runtimeconfig.dev.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/bin/Debug/netcoreapp3.0/OpenClosedPrincipleExample.dll
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/bin/Debug/netcoreapp3.0/OpenClosedPrincipleExample.pdb
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/obj/Debug/netcoreapp3.0/OpenClosedPrincipleExample.csprojAssemblyReference.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/obj/Debug/netcoreapp3.0/OpenClosedPrincipleExample.AssemblyInfoInputs.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/obj/Debug/netcoreapp3.0/OpenClosedPrincipleExample.AssemblyInfo.cs
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/obj/Debug/netcoreapp3.0/OpenClosedPrincipleExample.dll
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/OpenClosedPrincipleExample/obj/Debug/netcoreapp3.0/OpenClosedPrincipleExample.pdb
