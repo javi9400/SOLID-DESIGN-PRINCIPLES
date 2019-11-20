@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/SingleResponsabilityExample.csproj": {}
+    "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/SingleResponsabilityExample.csproj": {}
   },
   "projects": {
-    "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/SingleResponsabilityExample.csproj": {
+    "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/SingleResponsabilityExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/SingleResponsabilityExample.csproj",
+        "projectUniqueName": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/SingleResponsabilityExample.csproj",
         "projectName": "SingleResponsabilityExample",
-        "projectPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/SingleResponsabilityExample.csproj",
+        "projectPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/SingleResponsabilityExample.csproj",
         "packagesPath": "/Users/javiermayorga/.nuget/packages/",
-        "outputPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/obj/",
+        "outputPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/javiermayorga/.nuget/NuGet/NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.61.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

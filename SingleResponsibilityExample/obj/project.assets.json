@@ -1,11 +1,52 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "MySqlConnector/0.61.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/MySqlConnector.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/MySqlConnector.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MySqlConnector/0.61.0": {
+      "sha512": "E01yibVzCkVOmhNsUb+B4amjQKfKFlGiR1huNd6Q8aTCqBrACo0I3JMKvJBMpZfYhAsR8bqB9496PwcGpr+LuQ==",
+      "type": "package",
+      "path": "mysqlconnector/0.61.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/MySqlConnector.dll",
+        "lib/net45/MySqlConnector.xml",
+        "lib/net461/MySqlConnector.dll",
+        "lib/net461/MySqlConnector.xml",
+        "lib/net471/MySqlConnector.dll",
+        "lib/net471/MySqlConnector.xml",
+        "lib/netcoreapp2.1/MySqlConnector.dll",
+        "lib/netcoreapp2.1/MySqlConnector.xml",
+        "lib/netcoreapp3.0/MySqlConnector.dll",
+        "lib/netcoreapp3.0/MySqlConnector.xml",
+        "lib/netstandard1.3/MySqlConnector.dll",
+        "lib/netstandard1.3/MySqlConnector.xml",
+        "lib/netstandard2.0/MySqlConnector.dll",
+        "lib/netstandard2.0/MySqlConnector.xml",
+        "lib/netstandard2.1/MySqlConnector.dll",
+        "lib/netstandard2.1/MySqlConnector.xml",
+        "logo.png",
+        "mysqlconnector.0.61.0.nupkg.sha512",
+        "mysqlconnector.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "MySqlConnector >= 0.61.0"
+    ]
   },
   "packageFolders": {
     "/Users/javiermayorga/.nuget/packages/": {}
@@ -13,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/SingleResponsabilityExample.csproj",
+      "projectUniqueName": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/SingleResponsabilityExample.csproj",
       "projectName": "SingleResponsabilityExample",
-      "projectPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/SingleResponsabilityExample.csproj",
+      "projectPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/SingleResponsabilityExample.csproj",
       "packagesPath": "/Users/javiermayorga/.nuget/packages/",
-      "outputPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsabilityExample/obj/",
+      "outputPath": "/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/javiermayorga/.nuget/NuGet/NuGet.Config"
@@ -41,6 +82,12 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "dependencies": {
+          "MySqlConnector": {
+            "target": "Package",
+            "version": "[0.61.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -1,0 +1,3 @@
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/obj/Debug/netcoreapp3.0/SingleResponsabilityExample.csprojAssemblyReference.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/obj/Debug/netcoreapp3.0/SingleResponsabilityExample.AssemblyInfoInputs.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/SingleResponsibilityExample/obj/Debug/netcoreapp3.0/SingleResponsabilityExample.AssemblyInfo.cs
