@@ -4,6 +4,7 @@ public class DescuentoDecreto100:Descuento
     {
         public virtual double ValorTotalSanciones { get; set; }
         public virtual double ValorTotalPago { get; set; }
+
         public DescuentoDecreto100(double valorTotalPago,double valorSanciones)
         {
           
@@ -11,9 +12,7 @@ public class DescuentoDecreto100:Descuento
             this.ValorTotalSanciones=valorSanciones;
         }
 
-        public DescuentoDecreto100()
-        {
-        }
+
 
         public override double CalcularCredito()
         {

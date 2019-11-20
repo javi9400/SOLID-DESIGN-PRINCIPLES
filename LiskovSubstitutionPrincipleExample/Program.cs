@@ -30,14 +30,18 @@ namespace LiskovSubstitutionPrincipleExample
               Se debe abstraer el descuento para crear una clase base que sea heredada para los tipos de descuento que existan
               
             */
-            var listaDescuentos= new List<Descuento>()
-            {
-                new DescuentoDecreto170(500,200)
-                {
-                    
-                }
+            var listaDescuentos= new List<Descuento>();
+            DescuentoDecreto100 descuentoDecreto100 = new DescuentoDecreto100(500, 200);
+            listaDescuentos.Add(descuentoDecreto100);
 
+            foreach (var item in listaDescuentos)
+            {
+                System.Console.WriteLine("Descuento es: {0} ", item.CalcularCredito());
             }
+    
+
+
+
         }
     }
 }

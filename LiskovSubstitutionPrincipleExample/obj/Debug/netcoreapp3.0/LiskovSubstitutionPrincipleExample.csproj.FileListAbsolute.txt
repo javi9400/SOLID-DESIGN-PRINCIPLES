@@ -1,11 +1,22 @@
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\bin\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.exe
-C:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\bin\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.deps.json
-C:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\bin\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.runtimeconfig.json
-C:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\bin\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.runtimeconfig.dev.json
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\bin\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.dll
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\bin\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.pdb
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\obj\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.csprojAssemblyReference.cache
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\obj\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.AssemblyInfoInputs.cache
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\obj\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.AssemblyInfo.cs
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\obj\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.dll
-c:\Users\jmayorga\Desktop\Proyectos Examples\SOLID-DESIGN-PRINCIPLES\LiskovSubstitutionPrincipleExample\obj\Debug\netcoreapp3.0\LiskovSubstitutionPrincipleExample.pdb
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.exe
+C:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.deps.json
+C:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.runtimeconfig.json
+C:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.runtimeconfig.dev.json
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.dll
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.pdb
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.csprojAssemblyReference.cache
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.AssemblyInfoInputs.cache
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.AssemblyInfo.cs
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.dll
+c:/Users/jmayorga/Desktop/Proyectos Examples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.pdb
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.csprojAssemblyReference.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.AssemblyInfoInputs.cache
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.AssemblyInfo.cs
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.dll
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/obj/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.pdb
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.deps.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.runtimeconfig.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.runtimeconfig.dev.json
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.dll
+/Users/javiermayorga/Projects/aspNetCoreExamples/SOLID-DESIGN-PRINCIPLES/LiskovSubstitutionPrincipleExample/bin/Debug/netcoreapp3.0/LiskovSubstitutionPrincipleExample.pdb
